@@ -29,7 +29,7 @@ IGNORE_UTF8_ERRORS = FALSE;
 nutrition_tweets.json
 
 Sample Preview:
-![image](https:--github.com/user-attachments/assets/3395658d-4479-41a4-924c-a8613b7695ef)
+![image](https://github.com/user-attachments/assets/3395658d-4479-41a4-924c-a8613b7695ef)
 
 
 ## Load and View the Nested JSON File
@@ -54,14 +54,14 @@ STRIP_NULL_VALUES = false
 IGNORE_UTF8_ERRORS = false ;
 ```
 ## Stating files (indexing/locating AWS s3 files in Snowflake)
-![image](https:--github.com/user-attachments/assets/62e97feb-c1d9-465f-b538-7b13e2431145)
+![image](https://github.com/user-attachments/assets/62e97feb-c1d9-465f-b538-7b13e2431145)
 
 ## Select All Statement
 ```sql
 SELECT RAW_STATUS
 FROM TWEET_INGEST;
 ```
-![image](https:--github.com/user-attachments/assets/71ddf686-026e-4108-912e-6e2e676ee030)
+![image](https://github.com/user-attachments/assets/71ddf686-026e-4108-912e-6e2e676ee030)
 
 ## Sample: Output - Removing hashtags
 ```sql
@@ -69,7 +69,7 @@ SELECT RAW_STATUS:entities:hashtags[0].text
 FROM TWEET_INGEST
 WHERE RAW_STATUS:entities:hashtags[0].text is not null;
 ```
-![image](https:--github.com/user-attachments/assets/ad22a4b6-ff30-4775-9121-41773da35798)
+![image](https://github.com/user-attachments/assets/ad22a4b6-ff30-4775-9121-41773da35798)
 
 # Other queries 
 
