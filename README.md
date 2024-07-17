@@ -27,6 +27,9 @@ IGNORE_UTF8_ERRORS = FALSE;
 ## Download the JSON Data File
 
 nutrition_tweets.json
+Sample Preview:
+![image](https://github.com/user-attachments/assets/3395658d-4479-41a4-924c-a8613b7695ef)
+
 
 ## Load and View the Nested JSON File
 ```sql
