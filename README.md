@@ -72,6 +72,7 @@ WHERE RAW_STATUS:entities:hashtags[0].text is not null;
 ![image](https://github.com/user-attachments/assets/ad22a4b6-ff30-4775-9121-41773da35798)
 
 # Other queries 
+![image](https://github.com/user-attachments/assets/173ce79a-19d7-4e51-bc39-740ab52a6bf6)
 
 ```sql
 -- JSON DDL Scripts
