@@ -25,7 +25,6 @@ STRIP_NULL_VALUES = FALSE
 IGNORE_UTF8_ERRORS = FALSE;
 ```
 ## Download the JSON Data File
-[Uploading json_book_author_nested.txt…]()
 
 nutrition_tweets.json
 
