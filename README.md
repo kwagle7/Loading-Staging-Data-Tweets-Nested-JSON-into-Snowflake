@@ -1,4 +1,4 @@
-# Nested-JSON-in-Snowflake-Tweets
+# Loading tweets (Nested JSON) into Snowflake
 Create a Database, Table &amp; File Format for Nested JSON Data
 
 ## Create Database
